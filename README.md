@@ -1,4 +1,4 @@
-Library for parsing LOCUS log files
+## Parser for LOCUS log files
 
 This was generated using log files extracted from the [Adafruit](http://www.adafruit.com/) GPS modules.
 
